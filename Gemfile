@@ -31,6 +31,7 @@ group :development, :test do
   gem 'hirb-unicode'
   gem 'byebug'
   gem 'spring'
+  gem 'spring-commands-rspec'
   gem 'rspec-rails'
   gem 'factory_girl_rails'
   gem 'faker'
